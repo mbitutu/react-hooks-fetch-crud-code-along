@@ -9,6 +9,6 @@ function Header({ isDarkMode, onDarkModeClick }) {
       </button>
     </header>
   );
-}
+};
 
 export default Header;

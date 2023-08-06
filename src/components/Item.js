@@ -11,6 +11,6 @@ function Item({ item }) {
       <button className="remove">Delete</button>
     </li>
   );
-}
+};
 
 export default Item;

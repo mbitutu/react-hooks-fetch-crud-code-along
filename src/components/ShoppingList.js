@@ -31,6 +31,6 @@ function ShoppingList() {
       </ul>
     </div>
   );
-}
+};
 
 export default ShoppingList;

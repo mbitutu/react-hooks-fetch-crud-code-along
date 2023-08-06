@@ -32,6 +32,6 @@ function ItemForm() {
       <button type="submit">Add to List</button>
     </form>
   );
-}
+};
 
 export default ItemForm;
